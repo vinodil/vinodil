@@ -34,7 +34,7 @@
 
 <p align="center">
 <a href="https://www.unwiredlearning.com/"><img alt="Website" src="https://img.shields.io/badge/website-unwiredlearning.com-green"></a>
-<a href="https://www.linkedin.com/in/shubhamsarda/"><img alt="LinkedIn" src="https://www.linkedin.com/in/vinod-patil-64606b214/"></a>
+<a href="https:https://www.linkedin.com/in/vinod-patil-64606b214/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
 </p>
 <!---
 vinodil/vinodil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
