@@ -28,6 +28,14 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)    
 
 ---
+
+
+### 🤝🏻 &nbsp;Connect with Me 
+
+<p align="center">
+<a href="https://www.unwiredlearning.com/"><img alt="Website" src="https://img.shields.io/badge/website-unwiredlearning.com-green"></a>
+<a href="https://www.linkedin.com/in/shubhamsarda/"><img alt="LinkedIn" src="https://www.linkedin.com/in/vinod-patil-64606b214/"></a>
+</p>
 <!---
 vinodil/vinodil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
