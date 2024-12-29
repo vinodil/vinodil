@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinodil
+- 👋 Hi, I’m @vinod Patil
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
 - 📫 How to reach me ..Email on Linked In
